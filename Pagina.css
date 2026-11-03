@@ -1,0 +1,29 @@
+a{
+    color: blue;
+}
+
+body{  
+    background-color: rgb(231, 244, 255);
+}
+a:hover {
+color: green;
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+nav a {
+    border: 2px solid green;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.caja {
+border: 2px solid blue;
+
+}
+footer{ 
+    margin-top: 500px;
+}
